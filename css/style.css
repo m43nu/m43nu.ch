@@ -1,0 +1,56 @@
+body {
+    font-family: 'Monda', sans-serif;
+}
+
+.container p {
+    line-height: 2;
+}
+
+header h1 {
+    font-family: 'Sarina', cursive;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-image: url(../img/bg.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    height: 300px;
+    padding-top: 40px;
+}
+
+header div {
+    margin-top: 50px;
+    color: white;
+}
+
+header div span {
+    background-color: rgba(97, 163, 225, 0.7);
+    display: inline-block;
+    font-size: 24px;
+    line-height: 1;
+    margin-bottom: 10px;
+    padding: 6px 8px 8px 8px;
+}
+
+footer {
+    font-size: smaller;
+}
+
+footer p {
+    float: left;
+    margin: 0;;
+}
+
+footer ul {
+    clear: none;
+    float: right;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+footer ul li {
+    float: left;
+    margin-right: 15px;
+}
