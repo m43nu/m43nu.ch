@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Home of web developer Emanuel Imhof.">
     <meta name="author" content="emanuel, imhof, web, developer">
+    <meta name="keywords" content="web, developer, php, ruby, javascript, symfony, extjs, rails, jquery, kickboxing, bern">
 
     <!-- Le styles -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Sarina|Monda&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href="http://fonts.googleapis.com/css?family=Sarina|Monda&subset=latin,latin-ext" rel="stylesheet" type="text/css">
     <link href="css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->

@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Home of web developer Emanuel Imhof.">
     <meta name="author" content="emanuel, imhof, web, developer">
+    <meta name="keywords" content="web, developer, php, ruby, javascript, symfony, extjs, rails, jquery, kickboxing, bern">
 
     <!-- Le styles -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -43,7 +44,7 @@
                 and the other part at the <a href="http://www.iml.unibe.ch" target="_blank">University of Bern</a>.
                 I practice Kickboxing since <?php $birthDate = array(9, 1, 2005); echo (date("md", date("U", mktime(0, 0, 0, $birthDate[0], $birthDate[1], $birthDate[2]))) > date("md") ? ((date("Y")-$birthDate[2])-1):(date("Y")-$birthDate[2])); ?> years at <a href="http://gojukan.ch" target="_blank">Goju Kan Bern</a>
                 and participated at several tournaments in Switzerland. 
-		I live at <a href="http://de.wikipedia.org/wiki/Bern" target="_blank">Bern</a>, together with my beautiful girlfriend <a href="https://www.facebook.com/nuria.emmenegger" target="_blank">Nuria</a>.
+		I live in <a href="http://de.wikipedia.org/wiki/Bern" target="_blank">Bern</a>, together with my beautiful girlfriend <a href="https://www.facebook.com/nuria.emmenegger" target="_blank">Nuria</a>.
             </p>
         </div>
         <div class="span4">
