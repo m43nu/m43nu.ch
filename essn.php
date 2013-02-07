@@ -66,6 +66,12 @@ $restaurants = array(
         <small>Tscheggebim</small>
     </blockquote>
 
+    <br/>
+    <blockquote>
+        <p>mini mueter isch au en firewall, si luegt was ine und use geit.</p>
+        <small>Artan</small>
+    </blockquote>
+
     <hr>
 
     <footer>
