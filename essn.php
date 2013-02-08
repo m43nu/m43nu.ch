@@ -12,7 +12,7 @@ $restaurants = array(
 $selection = array_keys($restaurants);
 shuffle($selection);
 $actualSelection = reset($selection);
-$date = new \DateTime();
+$date = new DateTime();
 if (!file_exists('selection.txt') || $date->format('Y-m-d') != current(explode('/', file_get_contents('selection.txt')))) {
     file_put_contents('selection.txt', $date->format('Y-m-d') . '/' . $actualSelection);
 } else {
@@ -67,7 +67,6 @@ if (!file_exists('selection.txt') || $date->format('Y-m-d') != current(explode('
         <p>hei luegsch für dir</p>
         <small>Tscheggebim</small>
     </blockquote>
-
     <br/>
     <blockquote>
         <p>mini mueter isch au en firewall, si luegt was ine und use geit.</p>
@@ -76,7 +75,7 @@ if (!file_exists('selection.txt') || $date->format('Y-m-d') != current(explode('
 
     <hr>
 
-    <footer>
+    <footer class="clearfix">
         <p class="pull-right">
             Proudly sponsored by <a href="http://m43nu.ch">m43nu.ch</a>
         </p>

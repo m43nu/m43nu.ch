@@ -23,7 +23,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="4" selection-start="3646" selection-end="4287" vertical-scroll-proportion="-16.0">
+            <state line="68" column="4" selection-start="3646" selection-end="4287" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -32,28 +32,10 @@
       <file leaf-file-name="essn.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/essn.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="9" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.6237172">
+            <state line="77" column="11" selection-start="2737" selection-end="2754" vertical-scroll-proportion="0.76054734">
               <folding>
-                <marker date="1360242278625" expanded="true" signature="453:2540" placeholder="..." />
+                <marker date="1360325729479" expanded="true" signature="2446:2907" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="17" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -222,7 +204,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.166759" sideWeight="0.9698925" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16897507" sideWeight="0.9698925" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -292,6 +274,36 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="4" selection-start="3646" selection-end="4287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="9" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1360325729479" expanded="true" signature="2446:2907" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="17" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="957" selection-end="957" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -337,9 +349,16 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="4" selection-start="3646" selection-end="4287" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="8" column="1947" selection-start="2176" selection-end="2176" vertical-scroll-proportion="0.13513513">
           <folding />
         </state>
       </provider>
@@ -353,23 +372,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="17" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="4" selection-start="3646" selection-end="4287" vertical-scroll-proportion="-16.0">
+        <state line="24" column="17" selection-start="398" selection-end="398" vertical-scroll-proportion="0.38401777">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/essn.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="9" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.6237172">
+        <state line="77" column="11" selection-start="2737" selection-end="2754" vertical-scroll-proportion="0.76054734">
           <folding>
-            <marker date="1360242278625" expanded="true" signature="453:2540" placeholder="..." />
+            <marker date="1360325729479" expanded="true" signature="2446:2907" placeholder="..." />
           </folding>
         </state>
       </provider>
