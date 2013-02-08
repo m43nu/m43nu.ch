@@ -4,8 +4,13 @@ $restaurants = array(
     'Meinen' => '#',
     'Kinderspital' => 'http://www.insel.ch/fileadmin/inselspital/users/Bildung/Allgemein/Menueplaene/Sole.pdf',
     'Donna' => 'http://www.insel.ch/fileadmin/inselspital/users/Bildung/Allgemein/Menueplaene/Donna.pdf',
-    'Stella' => 'http://www.insel.ch/fileadmin/inselspital/users/Bildung/Allgemein/Menueplaene/Stella.pdf'
+    'Stella' => 'http://www.insel.ch/fileadmin/inselspital/users/Bildung/Allgemein/Menueplaene/Stella.pdf',
+    'Pizza' => '#',
+    'Thai' => '#',
+    'Denner' => '#'
 );
+
+
 ?>
 
 <html>
