@@ -9,11 +9,16 @@ $restaurants = array(
     'Thai' => '#',
     'Denner' => '#'
 );
-
-
-?>
-
-<html>
+$selection = array_keys($restaurants);
+shuffle($selection);
+$actualSelection = reset($selection);
+$date = new \DateTime();
+if (!file_exists('selection.txt') || $date->format('Y-m-d') != current(explode('/', file_get_contents('selection.txt')))) {
+    file_put_contents('selection.txt', $date->format('Y-m-d') . '/' . $actualSelection);
+} else {
+    $actualSelection = end(explode('/', file_get_contents('selection.txt')));
+}
+?><html>
 <!doctype html>
 <html lang="en">
 <head>
@@ -53,18 +58,10 @@ $restaurants = array(
         <p>Der Zufall sagt:</p>
         <strong>
         <?php
-            $selection = array_keys($restaurants);
-            shuffle($selection);
-            echo reset($selection);
+            echo $actualSelection;
         ?>
         </strong>
     </div>
-    <p>
-        <a class="btn btn-primary" href="/essn.php">
-            Mööp, nicht mein Ding! Nochmal!
-        </a>
-    </p>
-
     <br/>
     <blockquote>
         <p>hei luegsch für dir</p>
