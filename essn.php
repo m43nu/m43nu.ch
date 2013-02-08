@@ -5,9 +5,9 @@ $restaurants = array(
     'Kinderspital' => 'http://www.insel.ch/fileadmin/inselspital/users/Bildung/Allgemein/Menueplaene/Sole.pdf',
     'Donna' => 'http://www.insel.ch/fileadmin/inselspital/users/Bildung/Allgemein/Menueplaene/Donna.pdf',
     'Stella' => 'http://www.insel.ch/fileadmin/inselspital/users/Bildung/Allgemein/Menueplaene/Stella.pdf',
-    'Pizza' => '#',
-    'Thai' => '#',
-    'Denner' => '#'
+    'Pizza' => 'http://dieci.ch/pizzakurier-bern',
+    'Thai' => 'http://www.thaifoodkurier.ch/',
+    'Denner' => 'http://www.denner.ch/de/'
 );
 $selection = array_keys($restaurants);
 shuffle($selection);
