@@ -7,7 +7,8 @@ $restaurants = array(
     'Stella' => 'http://www.insel.ch/fileadmin/inselspital/users/Bildung/Allgemein/Menueplaene/Stella.pdf',
     'Pizza' => 'http://dieci.ch/pizzakurier-bern',
     'Thai' => 'http://www.thaifoodkurier.ch/',
-    'Denner' => 'http://www.denner.ch/de/'
+    'Denner' => 'http://www.denner.ch/de/',
+    'Da Nina (Pasta, Pizza)' => 'http://www.gastrolink.ch/index.php?option=com_puarcade&action=detail&rid=34'
 );
 $selection = array_keys($restaurants);
 shuffle($selection);
