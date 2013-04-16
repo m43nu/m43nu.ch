@@ -4,6 +4,7 @@
     <list default="true" id="5e303e2c-a410-447d-a7fc-01dff8e40633" name="Default" comment="" />
     <ignored path="m43nu.ch.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/.gitignore" changelist="5e303e2c-a410-447d-a7fc-01dff8e40633" time="1366120380581" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +33,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="essn.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="essn.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/essn.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="108" selection-start="692" selection-end="692" vertical-scroll-proportion="0.12038523">
+            <state line="10" column="108" selection-start="692" selection-end="692" vertical-scroll-proportion="-1.7083334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -54,6 +64,7 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/essn.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -205,7 +216,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17051792" sideWeight="0.9698925" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17171314" sideWeight="0.9698925" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -281,13 +292,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="4" selection-start="3646" selection-end="4287" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/essn.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="9" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.0">
@@ -368,7 +372,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/essn.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="108" selection-start="692" selection-end="692" vertical-scroll-proportion="0.12038523">
+        <state line="10" column="108" selection-start="692" selection-end="692" vertical-scroll-proportion="-1.7083334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
