@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Home of web developer Emanuel Imhof.">
     <meta name="author" content="emanuel, imhof, web, developer">
-    <meta name="keywords" content="web, developer, php, ruby, javascript, symfony, extjs, rails, jquery, kickboxing, bern">
+    <meta name="keywords" content="web, developer, php, ruby, javascript, symfony, extjs, rails, jquery, angular, js, ember, kickboxing, bern">
 
     <!-- Le styles -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -51,14 +51,14 @@
             <p class="muted">
                 I see HTML5 and CSS3, speak PHP, ruby, Javascript, Java and C#.
                 Following the philosophy of <abbr title="test-driven development">TDD</abbr>, <abbr title="behaviour-driven development">BDD</abbr> and fell in love with design patterns.
-                I write symfony, ruby on rails, Ext JS and jQuery.
+                I write ruby on rails, symfony, jQuery, angular.js and ember.js.
                 And can't keep my nose out of new shiny things.
             </p>
         </div>
         <div class="span4">
             <p class="muted">
                 I'm always looking for all kind of projects for my own company <a href="http://twygmbh.ch" target="_blank">twy GmbH</a>.
-                We are young, enthusiastic and love to work on web-projects, have a look at <a href="http://www.twygmbh.ch/referenzen" target="_blank">what we did</a>.
+                We are young, enthusiastic and love to work on web-projects, have a look at <a href="http://www.twygmbh.ch" target="_blank">what we did</a>.
                 Interested? Why not <a href="http://twitter.com/twy_gmbh" target="_blank">connect with us?</a>
             </p>
         </div>
