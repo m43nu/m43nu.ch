@@ -29,8 +29,8 @@
     <h1>Emanuel Imhof</h1>
     <div class="hidden-phone">
         <span>I'am a web developer from Switzerland who </span><br/>
-        <span>works part-time at his own company twy GmbH and</span><br/>
-        <span>the other part at the University of Bern.</span>
+        <span>works at his own company TWY GmbH and</span><br/>
+        <span>a web agency located in Bern.</span>
     </div>
 </header>
 
@@ -40,24 +40,24 @@
         <div class="span4">
             <p class="muted">
                 My name is Emanuel Imhof. I'm <?php $birthDate = array(9, 19, 1988); echo (date("md", date("U", mktime(0, 0, 0, $birthDate[0], $birthDate[1], $birthDate[2]))) > date("md") ? ((date("Y")-$birthDate[2])-1):(date("Y")-$birthDate[2])); ?> years young, born and raised in Switzerland.
-                I work part-time for my own company <a href="http://twygmbh.ch" target="_blank">twy GmbH</a>
-                and the other part at the <a href="http://www.iml.unibe.ch" target="_blank">University of Bern</a>.
-                I practice Kickboxing since <?php $birthDate = array(9, 1, 2005); echo (date("md", date("U", mktime(0, 0, 0, $birthDate[0], $birthDate[1], $birthDate[2]))) > date("md") ? ((date("Y")-$birthDate[2])-1):(date("Y")-$birthDate[2])); ?> years at <a href="http://gojukan.ch" target="_blank">Goju Kan Bern</a>
-                and participated at several tournaments in Switzerland. 
+                I work for my own company <a href="http://twygmbh.ch" target="_blank">TWY GmbH</a>
+                a young web agency located in Bern.
+                I practice and teach Kickboxing since <?php $birthDate = array(9, 1, 2005); echo (date("md", date("U", mktime(0, 0, 0, $birthDate[0], $birthDate[1], $birthDate[2]))) > date("md") ? ((date("Y")-$birthDate[2])-1):(date("Y")-$birthDate[2])); ?> years at <a href="http://gojukan.ch" target="_blank">Goju Kan Bern</a>
+                and participated at several tournaments in Europe.
 		I live in <a href="http://de.wikipedia.org/wiki/Bern" target="_blank">Bern</a>, together with my beautiful girlfriend <a href="https://www.facebook.com/nuria.emmenegger" target="_blank">Nuria</a>.
             </p>
         </div>
         <div class="span4">
             <p class="muted">
-                I see HTML5 and CSS3, speak PHP, ruby, Javascript, Java and C#.
+                I see HTML5 and CSS3, speak Ruby, Javascript, PHP, Java and C#.
                 Following the philosophy of <abbr title="test-driven development">TDD</abbr>, <abbr title="behaviour-driven development">BDD</abbr> and fell in love with design patterns.
-                I write ruby on rails, symfony, jQuery, angular.js and ember.js.
+                I write Ruby on Rails, Symfony, jQuery, angular.js and ember.js.
                 And can't keep my nose out of new shiny things.
             </p>
         </div>
         <div class="span4">
             <p class="muted">
-                I'm always looking for all kind of projects for my own company <a href="http://twygmbh.ch" target="_blank">twy GmbH</a>.
+                I'm always looking for all kind of projects for me or my company <a href="http://twygmbh.ch" target="_blank">TWY GmbH</a>.
                 We are young, enthusiastic and love to work on web-projects, have a look at <a href="http://www.twygmbh.ch" target="_blank">what we did</a>.
                 Interested? Why not <a href="http://twitter.com/twy_gmbh" target="_blank">connect with us?</a>
             </p>
